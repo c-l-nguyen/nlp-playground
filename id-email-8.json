@@ -1,0 +1,29 @@
+[
+    {
+        "user": "UMBPVCBT7U",
+        "email_id": "1405061",
+        "type": "email",
+        "ts": "1566982152755",
+        "archived": "false",
+        "header": {
+            "ts": " ",
+            "from_full": {
+              "email": "nelly@dummyemail.com",
+              "from_avatar": "https:\/\/secure.gravatar.com\/avatar\/e1d7533e3ws265f6047a882.jpg",
+              "real_name": "Nelly Furtado "
+            },
+            "to_full": {
+              "email": "sabrina@dummyemail.com",
+              "to_avatar": "https:\/\/secure.gravatar.com\/avatar\/e1d7533e265f604f247a882.jpg",
+              "real_name": "Sabrina Jones "
+            },
+            "subject": "That's it!",
+            "cc": " ",
+            "bcc": " "
+        },
+        "body": {
+            "body_type": "text/plain",
+            "text": "I made it to my first hackathon, Sabrina. Thank you so much for your support. I'm already learning a lot. Thanks."
+        }
+      }
+]

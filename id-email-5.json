@@ -1,0 +1,29 @@
+[
+    {
+        "user": "UMBPVBTQ7U",
+        "email_id": "102666202",
+        "type": "email",
+        "ts": "1566582152755",
+        "archived": "false",
+        "header": {
+            "ts": " ",
+            "from_full": {
+              "email": "Jospeh@dummyemail.com",
+              "from_avatar": "https:\/\/secure.gravatar.com\/avatar\/e1d7533e265f643d047a882.jpg",
+              "real_name": "Jospeh Brosive "
+            },
+            "to_full": {
+              "email": "mirna@dummyemail.com",
+              "to_avatar": "https:\/\/secure.gravatar.com\/avatar\/e1d7533e265f60g3347a882.jpg",
+              "real_name": "Mirna Dehera"
+            },
+            "subject": "Meeting on Friday",
+            "cc": "jack@dummyemail.com",
+            "bcc": "moon@dummyemail.com"
+        },
+        "body": {
+            "body_type": "text/plain",
+            "text": "Hi team! Our meeting for the upcoming Monday is canceled due to low activity this week. Have fun!"
+        }
+      }
+]

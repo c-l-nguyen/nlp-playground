@@ -1,0 +1,29 @@
+[
+    {
+        "user": "UMBPVBTN7U",
+        "email_id": "102666201",
+        "type": "email",
+        "ts": "1566782152755",
+        "archived": "false",
+        "header": {
+            "ts": " ",
+            "from_full": {
+              "email": "Mariko@dummyemail.com",
+              "from_avatar": "https:\/\/secure.gravatar.com\/avatar\/e1d7533e26543df6047a882.jpg",
+              "real_name": "Mariko Yoshimoto"
+            },
+            "to_full": {
+              "email": "caroline@dummyemail.com",
+              "to_avatar": "https:\/\/secure.gravatar.com\/avatar\/e1d7523433e265f6047a882.jpg",
+              "real_name": "Caroline Huffman"
+            },
+            "subject": "Pleae come to my office hours",
+            "cc": " ",
+            "bcc": " "
+        },
+        "body": {
+            "body_type": "text/plain",
+            "text": "Hi Crolina, I would like to let you know that you have been caught cheating from stackoverflow.Please come by my office hours so that I can teach you how to never graduate."
+        }
+      }
+]

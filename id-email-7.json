@@ -1,0 +1,29 @@
+[
+    {
+        "user": "UMBPVBNT7U",
+        "email_id": "102666211",
+        "type": "email",
+        "ts": "1566882152755",
+        "archived": "false",
+        "header": {
+            "ts": " ",
+            "from_full": {
+              "email": "Mallie@dummyemail.com",
+              "from_avatar": "https:\/\/secure.gravatar.com\/avatar\/e1d7533e265ytf6047a882.jpg",
+              "real_name": "Mallie Paek "
+            },
+            "to_full": {
+              "email": "meta@dummyemail.com",
+              "to_avatar": "https:\/\/secure.gravatar.com\/avatar\/e1d7533e265f604bfd7a882.jpg",
+              "real_name": "Meta Mann"
+            },
+            "subject": "Cheers",
+            "cc": " ",
+            "bcc": " "
+        },
+        "body": {
+            "body_type": "text/plain",
+            "text": "Congratulations for having a baby. I cannot wait to see you on Sunday. Cheers to both of you."
+        }
+      }
+]
